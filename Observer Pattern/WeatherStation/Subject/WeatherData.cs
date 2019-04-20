@@ -10,6 +10,11 @@ namespace WeatherStation.Base
         private float humidity;
         private float pressure;
 
+        public WeatherData()
+        {
+            Observers = new List<IObserver>();
+        }
+
         public void registerObserver(IObserver o){
             Observers.Add(o);
         }

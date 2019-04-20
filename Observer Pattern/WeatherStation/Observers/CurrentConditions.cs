@@ -19,6 +19,7 @@ namespace WeatherStation.Observers
             this.temp = temp;
             this.humidity = humidity;
             this.pressure = pressure;
+            System.Console.WriteLine(String.Format("Current Conditions: Temperature = {0}, Pressure = {1}, Humidity = {2}",temp,pressure,humidity));
         }
     }
 }
