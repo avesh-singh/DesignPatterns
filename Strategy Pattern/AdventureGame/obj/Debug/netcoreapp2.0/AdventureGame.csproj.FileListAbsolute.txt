@@ -1,0 +1,10 @@
+E:\Design Patterns\Strategy Pattern\AdventureGame\bin\Debug\netcoreapp2.0\AdventureGame.deps.json
+E:\Design Patterns\Strategy Pattern\AdventureGame\bin\Debug\netcoreapp2.0\AdventureGame.runtimeconfig.json
+E:\Design Patterns\Strategy Pattern\AdventureGame\bin\Debug\netcoreapp2.0\AdventureGame.runtimeconfig.dev.json
+E:\Design Patterns\Strategy Pattern\AdventureGame\bin\Debug\netcoreapp2.0\AdventureGame.dll
+E:\Design Patterns\Strategy Pattern\AdventureGame\bin\Debug\netcoreapp2.0\AdventureGame.pdb
+E:\Design Patterns\Strategy Pattern\AdventureGame\obj\Debug\netcoreapp2.0\AdventureGame.csproj.CoreCompileInputs.cache
+E:\Design Patterns\Strategy Pattern\AdventureGame\obj\Debug\netcoreapp2.0\AdventureGame.AssemblyInfoInputs.cache
+E:\Design Patterns\Strategy Pattern\AdventureGame\obj\Debug\netcoreapp2.0\AdventureGame.AssemblyInfo.cs
+E:\Design Patterns\Strategy Pattern\AdventureGame\obj\Debug\netcoreapp2.0\AdventureGame.dll
+E:\Design Patterns\Strategy Pattern\AdventureGame\obj\Debug\netcoreapp2.0\AdventureGame.pdb

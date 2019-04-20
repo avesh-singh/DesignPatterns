@@ -1,0 +1,7 @@
+C:\Users\AveshS\source\repos\DesignPatterns\DuckSimulatorApp\DuckSimulatorApp\bin\Debug\DuckSimulatorApp.exe.config
+C:\Users\AveshS\source\repos\DesignPatterns\DuckSimulatorApp\DuckSimulatorApp\bin\Debug\DuckSimulatorApp.exe
+C:\Users\AveshS\source\repos\DesignPatterns\DuckSimulatorApp\DuckSimulatorApp\bin\Debug\DuckSimulatorApp.pdb
+C:\Users\AveshS\source\repos\DesignPatterns\DuckSimulatorApp\DuckSimulatorApp\obj\Debug\DuckSimulatorApp.csprojResolveAssemblyReference.cache
+C:\Users\AveshS\source\repos\DesignPatterns\DuckSimulatorApp\DuckSimulatorApp\obj\Debug\DuckSimulatorApp.csproj.CoreCompileInputs.cache
+C:\Users\AveshS\source\repos\DesignPatterns\DuckSimulatorApp\DuckSimulatorApp\obj\Debug\DuckSimulatorApp.exe
+C:\Users\AveshS\source\repos\DesignPatterns\DuckSimulatorApp\DuckSimulatorApp\obj\Debug\DuckSimulatorApp.pdb
